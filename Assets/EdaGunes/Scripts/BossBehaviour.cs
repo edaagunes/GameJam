@@ -51,7 +51,7 @@ public class BossBehaviour : MonoBehaviour
             RaycastDebugger();
 
             //karakterin damage sıklığı ayarlanacak bu haliyle direkt ölüyor
-            TakeDamage(20);
+         //   TakeDamage(20);
 
         }
         
@@ -78,7 +78,7 @@ public class BossBehaviour : MonoBehaviour
         currentHealth -= damage;
 
         //Hurt 
-        anim.SetTrigger("Hurt");
+       // anim.SetTrigger("Hurt");
         
         if (currentHealth <= 0)
         {
