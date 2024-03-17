@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Cemalhan Alptekin/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Cemalhan Alptekin/Scenes/Platformer Level.unity
+    guid: 6f7e5e11a42b44afda566f88bd992985
   m_configObjects: {}
