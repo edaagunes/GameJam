@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/EdaGunes/Scenes/BossScene.unity
     guid: ab2a557a307a7a749a391ea8659080c6
   m_configObjects: {}

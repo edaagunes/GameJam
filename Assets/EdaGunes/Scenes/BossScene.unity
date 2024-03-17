@@ -901,6 +901,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2382005232249380430, guid: 57f460989831b25449602a417caa0c36, type: 3}
+      propertyPath: raycastMask.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3221773907295596482, guid: 57f460989831b25449602a417caa0c36, type: 3}
       propertyPath: m_Name
       value: Boss
